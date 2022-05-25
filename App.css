@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+h1{
+  text-align: center;
+
+  
+
+}
+input{
+
+  size: 10px;
+  box-sizing: content-box;
+  border-radius: 4px;
+  
+}
